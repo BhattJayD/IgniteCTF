@@ -19,10 +19,8 @@ Let's look for available exploits for Fuel cms on google.and we found RCE CVE-20
 let's visit https://www.revshells.com/ and Put IP and PORT For reverse shell mine IP:10.8.244.200 and PORT:1234.
 and select "nc mkfifo" and copy code. then visit https://gchq.github.io/CyberChef/ and paste the code and use URL Encode and select encode all special characters.
 copy output.
-# Img (./src/RevShell)
 ![RevShell.png](./src/RevShell.png)
 
-# Img (Url Encoded)
 ![URLencoded.png](./src/URLencoded.png)
 
 
